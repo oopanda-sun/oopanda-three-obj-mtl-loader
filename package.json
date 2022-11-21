@@ -1,0 +1,27 @@
+{
+  "name": "oopanda-three-obj-mtl-loader",
+  "version": "1.0.0",
+  "homepage": "https://github.com/oopanda-sun/oopanda-three-obj-mtl-loader.git",
+  "description": "Threejs newest obj&mtl loader with npm dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "three": ">= 0.91"
+  },
+  "keywords": [
+    "objloader",
+    "mtlloader",
+    "three-objloader",
+    "threejs",
+    "three.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oopanda-sun/oopanda-three-obj-mtl-loader.git"
+  },
+  "author": "oopanda",
+  "license": "MIT",
+  "__npminstall_done": true
+}
